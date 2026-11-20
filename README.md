@@ -17,6 +17,13 @@ I design, build and operate AI systems end to end: LLM apps, RAG chatbots, AI ag
 | **Sales research & outreach automation** | Company research and personalised drafts with send caps and opt-out detection. |
 | **Self-hosted LLM gateway** | Per-app budgets, model routing and cost control across products. |
 
+## Open-source demos
+
+| Repo | What it shows |
+|---|---|
+| [pdf-to-csv-extractor](https://github.com/kasai0516/pdf-to-csv-extractor) | Fields from text-based PDFs into CSV, plus a validation report for missing, malformed or inconsistent values. Tested. |
+| [pdf-rag-chatbot-demo](https://github.com/kasai0516/pdf-rag-chatbot-demo) | Answers from your PDFs with page citations, declines when the documents don't cover it, and an evaluation on a question set (12/12). Optional Claude mode. |
+
 ## Stack
 
 `Python` `TypeScript` `JavaScript` `Next.js` `React` `Node.js` `Supabase` `PostgreSQL` `Firebase` `Vercel` `Docker` `Stripe` `OpenAI API` `Anthropic Claude API` `OpenRouter` `Google Apps Script` `WordPress`
